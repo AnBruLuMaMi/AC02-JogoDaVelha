@@ -6,5 +6,12 @@ public class jogoDaVelha {
 		// TODO Auto-generated method stub
 
 	}
+	public static char[][] initialize(){
+		
+		char tabuleiro[][] = {{'-','-','-'},{'-','-','-'},{'-','-','-'}};
+		
+		return tabuleiro;
 
+	}
+	
 }
