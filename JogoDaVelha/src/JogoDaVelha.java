@@ -7,3 +7,8 @@ public class JogoDaVelha {
 	}
 
 }
+	public static char[][] initialize(){
+		
+		return char tabuleiro[][] = {{-,-,-},{-,-,-},{-,-,-}};
+		
+	}
